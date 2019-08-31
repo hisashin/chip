@@ -8,6 +8,6 @@ Use case examples :
 - In pandemic, people can pick a blood from finger and test infectious diseases like Zika, by themselves.
 - Halal test
 
-[Steps to goal](https://github.com/hisashin/chip/doc/steps)
+[Steps to goal](https://github.com/hisashin/chip/blob/master/doc/steps.md)
 
  
