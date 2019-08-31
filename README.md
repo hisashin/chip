@@ -8,7 +8,7 @@ Use case examples :
 - In pandemic, people can pick a blood from finger and test infectious diseases like Zika, by themselves.
 - Halal test
 
-Steps : 
+Steps to goal : 
 
 ![Step1](https://github.com/hisashin/chip/raw/master/doc/images/dev_process.001.jpeg "Step1")
 ![Step2](https://github.com/hisashin/chip/raw/master/doc/images/dev_process.002.jpeg "Step2")
