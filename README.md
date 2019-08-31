@@ -5,15 +5,10 @@ No fridge, pipette, centrifuge, electrophoresis nor UV illuminator. Use DNA extr
 
 Use case examples :
 - Food allergy patients (even kids) can test their food by themselves.
-- In pandemic, people can pick a blood from finger and test infectious diseases like Zika,  by themselves.
+- In pandemic, people can pick a blood from finger and test infectious diseases like Zika, by themselves.
 - Halal test
-- (You can add here if come up)
 
-Things to be solved :
-- A
-- B
-- C
-- D
+
 
 
 
