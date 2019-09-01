@@ -26,8 +26,6 @@ Whole Procedure :
    - [Put E into T1](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_extraction_solution.md)
    - [Place T1+T2 into tube holder of thermal cycler](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_tubes.md)
    - [Extraction](https://github.com/hisashin/chip/blob/master/doc/procedure/user/extraction.md)
-      - Hold 10 min
-      - Keep 95 degree celcius for 3 minutes
    - [Put N into T2](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_neutralization.md)
    - [Move ~4uL from T1 to T2](https://github.com/hisashin/chip/blob/master/doc/procedure/user/move_sample.md)
    - [Amplification](https://github.com/hisashin/chip/blob/master/doc/procedure/user/amplification.md)
