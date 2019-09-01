@@ -1,1 +1,1 @@
-//TODO Put UI images of NinjaPCR here
+//TODO Put UI images of NinjaPCR console here
