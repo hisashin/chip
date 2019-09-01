@@ -19,7 +19,7 @@ Whole Procedure :
    - Make preservable DNA chromatography chip (C)
       - Design
       - Manufacture
-   - Packaging, Inventory management, Sales and Shipping
+   - Sales and Shipping
 - End User
    - Pick up ~10uL sample without specific tool (S)
    - Put S into T1
