@@ -5,7 +5,7 @@ No fridge, pipette, vortex mixier, centrifuge, electrophoresis nor UV illuminato
 
 Use case examples :
 - Food allergy patients (even kids) can test their food by themselves. (500 million people)
-- In pandemic, people can pick a blood from finger and test infectious diseases like Zika, by themselves. (200 million people/year only for Mararia)
+- People can pick a blood from finger and test infectious diseases like Zika, by themselves. (200 million people/year only for Mararia)
 - Halal test (1.6 billion muslim)
 
 Whole Procedure :
