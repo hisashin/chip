@@ -1,6 +1,6 @@
 # Questions and Answers
 
-- Plastic Ampoule or Freeze Dry?
+- Filter Paper, Plastic Ampoule or Freeze Drying?
 
 # Items and Tools
 
