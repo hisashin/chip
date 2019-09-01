@@ -1,4 +1,4 @@
-# Required Tools
+# Items and Tools
 
 # Theory
 
