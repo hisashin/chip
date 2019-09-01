@@ -6,6 +6,10 @@
 
 - Ordered
 
+  - Primer CAAATCCTCACAGGCCTATTCCTAGC
+  - Reverse Primer TAGGCGAATAGGAAATATCATTCGGGTTTGAT
+    - Used at BioClub DNA testing workshop to distinguish Pig, Cow and Chicken [ref](https://www.jstage.jst.go.jp/article/chikusan1924/65/6/65_6_571/_pdf)
+  
   - [ADVANTEC 49010010 Filter Paper TypeI for blood test (100pc)](https://www.advantec.co.jp/products/detail/?id=743)
   - ADVANTEC 49010020 Filter Paper TypeII for blood test (100pc) (refer "Web Catalog" p.76 just below TypeI)
   - ADVANTEC 02481180 Filter Paper (100pc) (refer "Web Catalog" p.76 bottom)
