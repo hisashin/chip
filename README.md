@@ -8,9 +8,14 @@ Use case examples :
 - In pandemic, people can pick a blood from finger and test infectious diseases like Zika, by themselves.
 - Halal test
 
-Steps :
+Procedure :
 
-- In factory
+1. In factory
+ 1. Make preservable primer and reverse primer
+ 1. Make preservable DNA extraction solution and tissue prep solution
+ 1. Make preservable neutralization solution and reaction mix
+ 1. Make preservable DNA chromatography chip
+  1. Design
+  1. Manufacture
+ 1. Sales and shipping
  
--- proc1
--- proc2
