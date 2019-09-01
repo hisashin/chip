@@ -10,23 +10,23 @@ Use case examples :
 
 Whole Procedure :
 
-1. Manufacturer (we)
-   1. Make preservable primer and reverse primer placed in A2, one of two connected PCR tubes (A1+A2)
-   1. Make preservable DNA extraction solution and tissue prep solution (B)
-   1. Make preservable neutralization solution and reaction mix (C)
-   1. Make preservable DNA chromatography chip (D)
-     1. Design
-     1. Manufacture
-   1. Packaging, Inventory management, Sales and Shipping
-1. End User
- 1. Pick up ~10uL sample without specific tool
- 1. Put it into A1
- 1. Put B into A1
- 1. Place A1+A2 into tube holder of thermal cycler (for example NinjaPCR)
- 1. Prepare
-  1. Hold 10 min to extract DNA
-  1. Keep 95 degree celcius for 3 minutes
- 1. Put C into A2
- 1. Move ~4uL from A1 to A2
- 1. Amplification
- 1. Detection
+- Manufacturer (we)
+   - Make preservable primer and reverse primer placed in A2, one of two connected PCR tubes (A1+A2)
+   - Make preservable DNA extraction solution and tissue prep solution (B)
+   - Make preservable neutralization solution and reaction mix (C)
+   - Make preservable DNA chromatography chip (D)
+      - Design
+      - Manufacture
+   - Packaging, Inventory management, Sales and Shipping
+- End User
+   - Pick up ~10uL sample without specific tool
+   - Put it into A1
+   - Put B into A1
+   - Place A1+A2 into tube holder of thermal cycler (for example NinjaPCR)
+   - Prepare
+      - Hold 10 min to extract DNA
+      - Keep 95 degree celcius for 3 minutes
+   - Put C into A2
+   - Move ~4uL from A1 to A2
+   - Amplification
+   - Detection
