@@ -13,7 +13,7 @@ Whole Procedure :
 ![Whole procedure](https://github.com/hisashin/chip/blob/master/doc/images/procedure.png)
 
 - Manufacturer (we)
-   - Make preservable primer (P) and reverse primer (^P) placed in A2, one of two connected PCR tubes (T1+T2)
+   - [Make preservable primer (P) and reverse primer (^P) placed in A2, one of two connected PCR tubes (T1+T2)](doc/manufacturer/primer.md)
    - Make preservable DNA extraction solution and tissue prep solution (E)
    - Make preservable neutralization solution and reaction mix (N)
    - Make preservable DNA chromatography chip (C)
