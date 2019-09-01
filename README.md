@@ -13,22 +13,22 @@ Whole Procedure :
 ![Whole procedure](https://github.com/hisashin/chip/blob/master/doc/images/procedure.png)
 
 - Manufacturer (we)
-   - [Make preservable primer (P) and reverse primer (^P) placed in A2, one of two connected PCR tubes (T1+T2)](doc/manufacturer/primer.md)
-   - Make preservable DNA extraction solution and tissue prep solution (E)
-   - Make preservable neutralization solution and reaction mix (N)
-   - Make preservable DNA chromatography chip (C)
-      - Design
-      - Manufacture
-   - Sales and Shipping
+   - [Make preservable primer (P) and reverse primer (^P) placed in A2, one of two connected PCR tubes (T1+T2)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/primer.md)
+   - [Make preservable DNA extraction solution and tissue prep solution (E)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/extraction_solution.md)
+   - [Make preservable neutralization solution and reaction mix (N)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/neutralization_solution.md)
+   - [Make preservable DNA chromatography chip (C)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip.md)
+      - [Design](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip_design.md)
+      - [Manufacture](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip manufacture.md)
+   - [Sales and Shipping](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/sales.md)
 - End User
-   - Pick up ~10uL sample without specific tool (S)
-   - Put S into T1
-   - Put E into T1
-   - Place T1+T2 into tube holder of thermal cycler
-   - Extraction
+   - [Pick up ~10uL sample without specific tool (S)](https://github.com/hisashin/chip/blob/master/doc/procedure/user/pickup_sample.md)
+   - [Put S into T1](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_sample.md)
+   - [Put E into T1](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_extraction_solution.md)
+   - [Place T1+T2 into tube holder of thermal cycler](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_tubes.md)
+   - [Extraction](https://github.com/hisashin/chip/blob/master/doc/procedure/user/extraction.md)
       - Hold 10 min
       - Keep 95 degree celcius for 3 minutes
-   - Put N into T2
-   - Move ~4uL from T1 to T2
-   - Amplification
-   - Detection
+   - [Put N into T2](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_neutralization.md)
+   - [Move ~4uL from T1 to T2](https://github.com/hisashin/chip/blob/master/doc/procedure/user/move_sample.md)
+   - [Amplification](https://github.com/hisashin/chip/blob/master/doc/procedure/user/amplification.md)
+   - [Detection](https://github.com/hisashin/chip/blob/master/doc/procedure/user/detection.md)
