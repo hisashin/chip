@@ -18,7 +18,7 @@ Whole Procedure :
    - [Make preservable neutralization solution and reaction mix (N)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/neutralization_solution.md)
    - [Make preservable DNA chromatography chip (C)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip.md)
       - [Design](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip_design.md)
-      - [Manufacture](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip manufacture.md)
+      - [Manufacture](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip_manufacture.md)
    - [Sales and Shipping](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/sales.md)
 - End User
    - [Pick up ~10uL sample without specific tool (S)](https://github.com/hisashin/chip/blob/master/doc/procedure/user/pickup_sample.md)
