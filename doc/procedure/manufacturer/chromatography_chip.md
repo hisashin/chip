@@ -1,6 +1,3 @@
-# Questions and Answers
-
-
 # References
 
 - [Rapid, Low-Cost Detection of Zika Virus Using
@@ -9,8 +6,3 @@ Programmable Biomolecular Components](https://collinslab.mit.edu/files/cell_pard
   - Leave a Nest is connected with them.
 - [Kurabou GeneFields](https://www.kurabo.co.jp/bio/English/product/products.php?M=L&A=P&CID=9)
   - "GeneFields Meat 48" costs JPY73,872 (1 week)
-
-# Theory
-
-
-# Practice
