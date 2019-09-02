@@ -22,7 +22,7 @@ Whole Procedure :
    - [Sales and Shipping](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/sales.md)
    - [Legal Risks](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/legal.md)
 - End User
-   - [Pick up ~10uL sample without specific tool (S)](https://github.com/hisashin/chip/blob/master/doc/procedure/user/pickup_sample.md)
+   - [Pick up ~10uL sample (S)](https://github.com/hisashin/chip/blob/master/doc/procedure/user/pickup_sample.md)
    - [Put S into T1](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_sample.md)
    - [Put E into T1](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_extraction_solution.md)
    - [Place T1+T2 into tube holder of thermal cycler](https://github.com/hisashin/chip/blob/master/doc/procedure/user/put_tubes.md)
