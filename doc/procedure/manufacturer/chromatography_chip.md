@@ -1,3 +1,9 @@
+# Things to make clear
+
+[ ] test
+[x] test
+
+
 # References
 
 - [Rapid, Low-Cost Detection of Zika Virus Using
