@@ -23,13 +23,22 @@ It's possible to test several PCR reactions (currently up to five) per paper str
 High cost of modified DNA oligomers.
 Requires spatially controlled printing of DNA onto chromatography paper.
 
-# Summary of paper-based virus sensor (Pardee et al. 2016)
+# Summary of paper-based sensor (Pardee et al. 2016)
 
 The efficiency of this entirely paper-based system was demonstrated in the context of Zika virus detection. The presence of the target sequence in the sample triggers the production of an enzyme, the beta-galactosidase LacZ. This enzyme converts a yellow substrate (chlorophenol red-beta-D-galactopyranoside) into a purple product (chlorophenol red), resulting in a visible color change from yellow to purple. The workflow is illustrated in the **Graphical Abstract** of Pardee et al. 2016. They also developed a system to distinguish more precisely between single-nucleotide variants of the target, which is important if there is a need to monitor several versions of the target that are highly similar in terms of sequence.
 
 ![Graphical Abstract from Pardee et al. 2016](https://marlin-prod.literatumonline.com/cms/attachment/f796e0ea-f0e1-490f-9746-6ac2898d63d0/fx1.jpg)
 
 **Graphical Abstract** from Pardee et al. 2016
+
+# Advantage(s) of paper-based sensor
+
+No special or expensive chemicals are necessary. LacZ is a protein, so it is easily made using entirely paper-based reactions. This technology has been around for more than 40 years, so should be no problems in terms of patents. Another advantage is that this technology can be easily applied to both DNA and RNA targets, meaning that the potential future applications are much broader.
+
+# Disadvantage(s) of paper-based sensor
+
+The DNA target has to be transcribed to RNA. This adds one additional step.
+However, the reaction to produce RNA occurs at 37 degrees and does not require a thermocycler. 
 
 # Feasability
 
