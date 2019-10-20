@@ -71,6 +71,7 @@ The following table described the necessary ingredients and whether it's reasona
 Name | Order | Homemade
 ---- | ----- | --------
 DNA oligomers | yes | no
+RNase inhibitors | yes | probably
 Artificial DNA containing target sequence fused to LacZ | yes | yes
 T7 RNA polymerase *in vitro* transcription mix | yes | yes
 cell-free *in vitro* translation mix based on bacterial ribosomes | yes | yes
