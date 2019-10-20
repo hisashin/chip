@@ -21,6 +21,7 @@ It's possible to test several PCR reactions (currently up to five) per paper str
 ## Disadvantage(s) of Kaneka
 
 High cost of modified DNA oligomers.
+Requires spatially controlled printing of DNA onto chromatography paper.
 
 # Summary of paper-based virus sensor (Pardee et al. 2016)
 
