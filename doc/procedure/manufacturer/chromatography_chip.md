@@ -66,7 +66,7 @@ To design a chromatography chip that is specific to the target gene, it is neces
 
 ### Ingredients
 
-The following table described the necessary ingredients and whether it's reasonably feasable either in-house at low cost (Homemade) and/or whether it's possible to order it (Order).
+The following table described the necessary ingredients and whether it's reasonably feasable either in-house at low cost (Homemade) and/or whether it's possible to order it (Order). Please note that it will be necessary to compare the performance of homemade brews and commercial brews and optimize the former before relying completely on homemade brews.
 
 Name | Order | Homemade
 ---- | ----- | --------
