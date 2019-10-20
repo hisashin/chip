@@ -78,6 +78,8 @@ cell-free *in vitro* translation mix based on bacterial ribosomes | yes | yes
 
 ## Testing the reaction
 
+in preparation
+
 # References
 
 - Paper-based reactions
