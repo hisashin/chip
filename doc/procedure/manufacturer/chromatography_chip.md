@@ -25,7 +25,7 @@ Requires spatially controlled printing of DNA onto chromatography paper.
 
 # Summary of paper-based virus sensor (Pardee et al. 2016)
 
-The efficiency of this entirely paper-based system was demonstrated in the context of Zika virus detection. The presence of the target sequence in the sample triggers the production of an enzyme, the beta-galactosidase LacZ. This enzyme converts a yellow substrate (chlorophenol red-beta-D-galactopyranoside) into a purple product (chlorophenol red), resulting in a visible color change from yellow to purple. The workflow is illustrated in the **Graphical Abstract** of Pardee et al. 2016. They also developed a system to distinguish more precisely between single-nucleotide variants of the target, which is important if there is a need to monitor several versions of the target that may are highly similar in terms of sequence.
+The efficiency of this entirely paper-based system was demonstrated in the context of Zika virus detection. The presence of the target sequence in the sample triggers the production of an enzyme, the beta-galactosidase LacZ. This enzyme converts a yellow substrate (chlorophenol red-beta-D-galactopyranoside) into a purple product (chlorophenol red), resulting in a visible color change from yellow to purple. The workflow is illustrated in the **Graphical Abstract** of Pardee et al. 2016. They also developed a system to distinguish more precisely between single-nucleotide variants of the target, which is important if there is a need to monitor several versions of the target that are highly similar in terms of sequence.
 
 ![Graphical Abstract from Pardee et al. 2016](https://marlin-prod.literatumonline.com/cms/attachment/f796e0ea-f0e1-490f-9746-6ac2898d63d0/fx1.jpg)
 
