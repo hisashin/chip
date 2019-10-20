@@ -40,11 +40,18 @@ No special or expensive chemicals are necessary. Furthermore, LacZ technology ha
 After PCR, the DNA target has to be transcribed to RNA for the color test to work. This adds one additional step.
 However, the reaction to produce RNA simply occurs at 37 degrees and does not require thermocycling, so it's very easy to overcome. 
 
-# Feasability
+# Feasability and cost
 
-# Cheaper alternatives
+The paper-based sensor is much more promising in terms of feasibility and cost.
+In its present form, it does not implement a chromatography step, basically because they are testing one target gene per paper strip, so spatial resolution is not necessary.
 
-# Finding unique sequences in the target gene (in case of undocumented target)
+Chromatography would enable the detection of multiple targets per paper strip. However, similar to Kaneka, we would probably be limited to about 4-5 targets per strip. I'm not sure what the advantage is, and it probably depends on the application. Unless there is a specific reason or advantage to justify multiplexing, one target per reaction per paper strip is always better in terms of reliability and design cost.
+
+One paper strip containing one dried cell-free based LacZ system can be dipped into the PCR reaction. The PCR product will migrate on the paper strip and cause a change to purple color if the target is present. This is very simple and easy to implement.
+
+# How to produce the paper strip
+
+## Finding unique sequences in the target gene (in case of undocumented target)
 
 To design a chromatography chip that is specific to the target gene, it is necessary to select a nucleic acid sequence within the target that is unique, meaning that it does not overlap with irrelevant sequences that may be found in the same environment (for example, human DNA). This is very important, because different living organisms may share very similar genes. To achieve this, a bioinformatics pipeline is needed to analyze known DNA sequences from online databases and pick up unique regions in the target. The pipeline may involve the following steps (this may be subject to change after testing), and the order and parameters will require optimization during development. The parameters may differ slightly depending on the nature of the target.
 
@@ -54,7 +61,17 @@ To design a chromatography chip that is specific to the target gene, it is neces
 * Map unique regions
 * Design PCR primers that bind to unique regions
 
-# 
+## Design of the dried cell-free based LacZ system
+
+### Ingredients
+
+Name | Order | Homemade
+---- | ----- | --------
+Artificial DNA containing target complementary sequence fused to LacZ | yes | yes
+T7 RNA polymerase *in vitro* transcription mix | yes | yes
+cell-free *in vitro* translation mix based on bacterial ribosomes | yes | yes
+
+## Testing the reaction
 
 # References
 
