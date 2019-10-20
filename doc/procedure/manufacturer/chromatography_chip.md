@@ -5,10 +5,12 @@ The Kaneka system requires the following two modifications of the standard metho
 First, the PCR must be done with specially designed Forward and Reverse primers that contain an additional sequence and modified bases. The additional sequence of Forward enables binding to a gold nanocolloid, and the additional sequence of the Reverse enables binding to a solid-phased DNA probe, as follows. (Figure 1, Nagai et al. 2015)
 
 ![Figure 1 from Nagai et al. 2015](https://ars.els-cdn.com/content/image/1-s2.0-S1568988315300597-gr1.jpg)
+**Figure 1** from Nagai et al. 2015
 
 Second, the chromatography paper is prepared by printing conjugated DNA oligomers onto it. The bottom part of the chromatography paper holds a DNA oligomer conjugated to a gold nanocolloid. This DNA oligomer can bind to the DNA PCR amplicon, and is picked up by the DNA PCR amplicon as it moves upward. Then, the DNA PCR amplicon, which is now attached to a gold nanocolloid, is captured by the solid-phased DNA probe on a specific region on the chromatography paper. Development buffer allows visualization of the position of gold nanocolloid. (Figure 2, Nagai et al. 2015)
 
 ![Figure 2 from Nagai et al. 2015](https://ars.els-cdn.com/content/image/1-s2.0-S1568988315300597-gr2.jpg)
+**Figure 2** from Nagai et al. 2015
 
 # Feasability
 
