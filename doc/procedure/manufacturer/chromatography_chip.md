@@ -33,7 +33,7 @@ The efficiency of this entirely paper-based system was demonstrated in the conte
 
 # Advantage(s) of paper-based sensor
 
-No special or expensive chemicals are necessary. LacZ is a protein, so it is easily made using entirely paper-based reactions. This technology has been around for more than 40 years, so there should be no problems in terms of patents. Another advantage is that this technology can be easily applied to both DNA and RNA targets, meaning that the potential future applications are much broader.
+No special or expensive chemicals are necessary. Furthermore, LacZ technology has been around for more than 40 years, so there should be no problems in terms of patents. Another advantage is that this technology can be easily applied to both DNA and RNA targets, meaning that the potential future applications are much broader.
 
 # Disadvantage(s) of paper-based sensor
 
