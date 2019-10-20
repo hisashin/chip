@@ -65,9 +65,12 @@ To design a chromatography chip that is specific to the target gene, it is neces
 
 ### Ingredients
 
+The following table described the necessary ingredients and whether it's possible to either make it in-house at low cost (homemade) or order it.
+
 Name | Order | Homemade
 ---- | ----- | --------
-Artificial DNA containing target complementary sequence fused to LacZ | yes | yes
+DNA oligomers | yes | no
+Artificial DNA containing target sequence fused to LacZ | yes | yes
 T7 RNA polymerase *in vitro* transcription mix | yes | yes
 cell-free *in vitro* translation mix based on bacterial ribosomes | yes | yes
 
