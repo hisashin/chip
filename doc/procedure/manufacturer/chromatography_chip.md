@@ -42,7 +42,8 @@ However, the reaction to produce RNA simply occurs at 37 degrees and does not re
 
 # Feasability and cost
 
-The paper-based sensor is much more promising in terms of feasibility and cost.
+_**The paper-based sensor is much more promising in terms of feasibility and cost.**_
+
 In its present form, it does not implement a chromatography step, basically because they are testing one target gene per paper strip, so spatial resolution is not necessary.
 
 Chromatography would enable the detection of multiple targets per paper strip. However, similar to Kaneka, we would probably be limited to about 4-5 targets per strip. I'm not sure what the advantage is, and it probably depends on the application. Unless there is a specific reason or advantage to justify multiplexing, one target per reaction per paper strip is always better in terms of reliability and design cost.
@@ -65,7 +66,7 @@ To design a chromatography chip that is specific to the target gene, it is neces
 
 ### Ingredients
 
-The following table described the necessary ingredients and whether it's possible to either make it in-house at low cost (homemade) or order it.
+The following table described the necessary ingredients and whether it's reasonably feasable either in-house at low cost (Homemade) and/or whether it's possible to order it (Order).
 
 Name | Order | Homemade
 ---- | ----- | --------
