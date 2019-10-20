@@ -14,6 +14,16 @@ Second, the chromatography paper is prepared by printing conjugated DNA oligomer
 
 **Figure 2** from Nagai et al. 2015
 
+## Advantage(s) of Kaneka
+
+It's possible to test several PCR reactions (currently up to five) per paper strip.
+
+## Disadvantage(s) of Kaneka
+
+High cost of modified DNA oligomers.
+
+# Summary of paper-based virus sensor (Pardee et al. 2016)
+
 # Feasability
 
 # Cheaper alternatives
