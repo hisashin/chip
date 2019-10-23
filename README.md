@@ -17,8 +17,6 @@ Whole Procedure :
    - [Make preservable DNA extraction solution and tissue prep solution (E)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/extraction_solution.md)
    - [Make preservable neutralization solution and reaction mix (N)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/neutralization_solution.md)
    - [Make preservable DNA chromatography chip (C)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip.md)
-      - [Design](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip_design.md)
-      - [Manufacture](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip_manufacture.md)
    - [Sales and Shipping](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/sales.md)
    - [Legal Risks](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/legal.md)
 - End User
