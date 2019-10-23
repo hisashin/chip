@@ -16,7 +16,7 @@ Whole Procedure :
    - [Make preservable primer (P) and reverse primer (^P) placed in T2, one of two connected PCR tubes (T1+T2)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/primer.md)
    - [Make preservable DNA extraction solution and tissue prep solution (E)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/extraction_solution.md)
    - [Make preservable neutralization solution and reaction mix (N)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/neutralization_solution.md)
-   - [Make preservable DNA chromatography chip (C)](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip.md)
+   - [__Make preservable DNA chromatography chip (C)__](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/chromatography_chip.md)
    - [Sales and Shipping](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/sales.md)
    - [Legal Risks](https://github.com/hisashin/chip/blob/master/doc/procedure/manufacturer/legal.md)
 - End User
